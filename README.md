@@ -1,6 +1,4 @@
 # StreamlitCAPM
-# StreamlitCAPM
-# StreamlitCAPM 
 
 - The CAPM & Risk Analysis web application is a sophisticated yet user-friendly tool designed for investors to analyze the performance and risk of selected stocks. Its intuitive interface allows users to effortlessly select stocks, adjust parameters, and visualize data, making it accessible to both novice investors and seasoned professionals alike.
 
