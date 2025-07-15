@@ -310,4 +310,4 @@ for stock, data in stocks_data.items():
     cvar_data['CVaR'].append(cvar)
 cvar_df = pd.DataFrame(cvar_data)
 st.table(cvar_df)
-st.markdown('</div>', unsafe_allow_html=True)
+st.markdown('</div>', unsafe_allow_html=True) 
